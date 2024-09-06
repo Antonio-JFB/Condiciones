@@ -1,0 +1,47 @@
+header {
+    background-color: #0D1B2A; 
+    padding: 10px;
+    text-align: center;
+    color: #E0E1DD;
+}
+
+nav {
+    background-color: #1B263B; 
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    background-color: #0D1B2A; 
+    padding: 10px;
+    text-align: center;
+    color: #E0E1DD;
+}
+
+
+
+main {
+    background-color: #415A77; 
+    padding: 20px;
+    color: #E0E1DD; 
+}
+
+
+#titulo {
+    font-size: 2em;
+    color: #E0E1DD;
+}
+
+#menu {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu-item {
+    display: inline-block;
+    margin-right: 15px;
+    color: #E0E1DD;
+    font-weight: bold;
+    text-decoration: none;
+}
+
